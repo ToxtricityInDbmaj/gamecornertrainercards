@@ -1,6 +1,6 @@
 # gamecornertrainercards
 
-An archive of Game Corner (play.pokemonshowdown.com) Trainer Cards. transparency fixed
+An archive of Game Corner (play.pokemonshowdown.com) Trainer Cards. Transparency fixed. 🥚
 
 
 
